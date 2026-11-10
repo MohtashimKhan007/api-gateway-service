@@ -52,16 +52,20 @@ Every request passes through Spring Security filters that validate the JWT and e
 
 
 ### Platform Overview (Control Plane)
-![Overview](docs/screenshots/overview.png)
+<img width="1902" height="872" alt="image" src="https://github.com/user-attachments/assets/c012bfce-ee51-40c1-8c46-1e6f8b092253" />
+
 
 ### Organizations (Tenant Directory)
-![Organizations](docs/screenshots/organizations.png)
+<img width="1634" height="670" alt="image" src="https://github.com/user-attachments/assets/f5d24f04-ae91-4e83-b65c-ecc2e798d33b" />
+
 
 ### Routes (Gateway Configuration)
-![Routes](docs/screenshots/routes.png)
+<img width="1651" height="693" alt="image" src="https://github.com/user-attachments/assets/e04cd03a-47b9-412e-871a-4302dde66cfd" />
+
 
 ### Route Version History
-![Route Versions](docs/screenshots/route-versions.png)
+<img width="931" height="513" alt="image" src="https://github.com/user-attachments/assets/b99d36b2-c0f6-46d3-8063-c890b360d692" />
+
 
 ## Key Features
 
