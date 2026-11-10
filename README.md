@@ -48,7 +48,8 @@ Every request passes through Spring Security filters that validate the JWT and e
 ## Screenshots
 
 ### Login
-![Login](docs/screenshots/login.png)
+<img width="1864" height="906" alt="image" src="https://github.com/user-attachments/assets/42768d9a-ec13-40e2-a091-7c57b5510c75" />
+
 
 ### Platform Overview (Control Plane)
 ![Overview](docs/screenshots/overview.png)
